@@ -1,0 +1,8 @@
+torch>=2.0.0
+opencv-python
+pyaudio
+numpy
+Pillow
+python-dotenv
+mss
+google-generativeai
