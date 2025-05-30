@@ -116,7 +116,7 @@ This project is released under the MIT License. Free to use, modify, and distrib
 
 ## 🙋‍♀️ Maintainers
 
-Created by [Fardeen Khadri](https://github.com/fardeenKhadri) [Pramoda S R](https://github.com/Pramoda-S-R) [Anusha Rao](https://github.com/anushaarao3) 
+Created by [Pramoda S R](https://github.com/Pramoda-S-R) [Anusha Rao](https://github.com/anushaarao3) [Fardeen Khadri](https://github.com/fardeenKhadri)  
 
 ---
 
