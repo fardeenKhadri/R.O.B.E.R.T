@@ -40,8 +40,9 @@ Required libraries include:
 
 ## 🌐 Environment Setup
 
-Create a `.env` file and add your AI service API key:
+Create a `.env` file and add your AI service API key.  
 Get your API keys from: [apikey](https://aistudio.google.com/app/apikey)
+
 
 
 ```
